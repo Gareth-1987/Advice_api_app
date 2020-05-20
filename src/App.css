@@ -69,6 +69,14 @@
   animation-delay: 0.06s;
 }
 
+#footer {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 8px;
+  overflow: hidden;
+  
+  background: #a0afc2c0;
+
+}
   
 @keyframes rotate {
   0% {
